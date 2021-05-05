@@ -1,0 +1,60 @@
+
+nav{
+    width: 100%;
+    float: left;
+    margin: 0 0 1em 0;
+	padding: 0;
+    background-color:gray ;
+}
+nav ul {
+
+    list-style: none;
+	width: 800px;
+	margin: 0 auto;
+	padding: 0; 
+}
+ nav ul li{
+    display: inline-block;
+    text-decoration: none;
+      margin-left: 35px;
+}
+
+#up article img{
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#buttom article img{
+
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 30px;
+}
+
+#img{
+    width: 25%;
+    float:left;
+    
+    font-family: Veranda;
+
+}
+  p{
+    float:right;
+
+}
+
+
+footer{
+    display: inline-block;
+
+    width: 100%;
+    margin: unset;
+	padding: inherit;
+    background-color:gray ;
+}
+
+
+
